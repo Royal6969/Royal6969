@@ -51,7 +51,7 @@ const sergio = {
             C#: ".NET",
             js: "Node"
         },
-        frontend: {
+        frontEnd: {
             languages: ["css", "sass", "html", "js"],
             frameworks: ["Angular", "Bootstrap", "Tailwind"],
             libraries: ["React", "Next", "JQuery"]
