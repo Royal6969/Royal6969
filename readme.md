@@ -4,7 +4,7 @@
     <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50" />
 </h2>
 
-<img align='right' src="./img/coding.gif" width="400">
+<img align='right' src="./img/coding.gif" width="1000">
 
 <!-- 
 <p>
@@ -99,9 +99,6 @@ const sergio = {
 </a>
 <a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=amazona-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
-<a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=dairy-farm-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
 <br/>
