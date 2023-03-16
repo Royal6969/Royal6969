@@ -4,7 +4,7 @@
     <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50" />
 </h2>
 
-<img align='right' src="./img/coding.gif" width="800">
+<img align='right' src="./img/coding.gif" width="500">
 
 <!-- 
 <p>
