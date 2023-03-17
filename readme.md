@@ -176,7 +176,7 @@ JS               32 hrs 15 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ### **Databases**
 <p align="left">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Microsoft SQL Server&svgfill=d33b3b">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MicrosoftSQLServer&svgfill=d33b3b">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgreSQL&svgfill=31648c">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffcc30">
 </p>
