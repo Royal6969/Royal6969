@@ -144,7 +144,6 @@ JS               32 hrs 15 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </br>
 
 ## <img src="./img/juggle.gif" width="40" /> **Things I use on a daily basis**
-<br/>
 
 ### **Programming Languages**
 <p align="left">
