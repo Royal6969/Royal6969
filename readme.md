@@ -143,64 +143,70 @@ JS               32 hrs 15 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </br>
 
-## Things I use on a daily basis
+## <img src="./img/juggle.gif" width="40" /> **Things I use on a daily basis**
+<br/>
 
-<p align="left">  
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=659b60">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=dd0031">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=eab676">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=2d79c7">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=6e2cf2">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f64d27">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffcc30">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=31648c">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=apache&svgfill=b52150">
-    </a>
-    <a>
-        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nginx&svgfill=009639">
-    </a>
+### **Programming Languages**
+<p align="left">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=eab676">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=2d79c7">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=dd4b25">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=markdown">
 </p>
+
+### **Libraries**
+
+<p align="left">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jquery&svgfill=78cff5">
+</p>
+
+### **Frameworks**
+<p align="left">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=659b60">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=dd0031"> 
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=6e2cf2">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=38bdf8">
+</p>
+
+### **Databases**
+<p align="left">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Microsoft SQL Server&svgfill=d33b3b">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgreSQL&svgfill=31648c">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffcc30">
+</p>
+
+### **Runtimes**
+<p align="left">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</p>
+
+### **Code control**
+<p align="left">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f64d27">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gitlab&svgfill=f49f24">
+</p>
+
+### **Web Servers**
+<p align="left">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=apache&svgfill=b52150">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nginx&svgfill=009639">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel">
+</p>
+
+### **Operation Systems**
+<p align="left">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=windows&svgfill=00a8e8">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux">
+</p>
+
+</br>
 
 </br>
 
