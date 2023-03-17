@@ -183,6 +183,7 @@ JS               32 hrs 15 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### **Runtimes**
 <p align="left">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=.net&svgfill=c86ed1">
 </p>
 
 ### **Code control**
