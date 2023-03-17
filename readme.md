@@ -133,7 +133,7 @@ Other                        40 mins     █░░░░░░░░░░░░
 ```text
 From: 01 January 2023 - To: 01 April 2023
 
-Total Time: 1,073 hrs 40 mins
+Total Time: 537 hrs 49 mins
 
 Java             261 hrs 18 mins        ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  36.18 %
 C#               146 hrs 1 min          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  29.31 %
