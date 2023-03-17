@@ -200,7 +200,7 @@ JS               32 hrs 15 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel">
 </p>
 
-### **Operation Systems**
+### **Operating Systems**
 <p align="left">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=windows&svgfill=00a8e8">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux">
