@@ -38,7 +38,7 @@
  >
 > 💼 4 previous work experiences 
 
-## <img src="./img/box.gif" width="30" /> **A little more about me...**  
+## <img src="./img/box.gif" width="35" /> **A little more about me...**  
 
 ```javascript
 const sergio = {
