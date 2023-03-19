@@ -38,7 +38,7 @@
  >
 > 💼 4 previous work experiences 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=royal6969&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=royal6969&show_icons=true&theme=tokyonight)
 
 ## <img src="./img/box.gif" width="35" /> **A little more about me...**  
 
