@@ -20,7 +20,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sergio-portfolio.web.app/)](https://sergio-portfolio.web.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=royal6969.royal6969)
 
-## <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" width="20" /> **My GitHub Data**  
+## <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" width="25" /> **My GitHub Data**  
  > 
 > 🙋🏻‍♂️ Open to hire
  > 
