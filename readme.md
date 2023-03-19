@@ -38,8 +38,8 @@
  >
 > 💼 4 previous work experiences 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=royal6969&show_icons=true&theme=tokyonight" />
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royal6969&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=royal6969&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royal6969&layout=compact" />
 
 ## <img src="./img/box.gif" width="35" /> **A little more about me...**  
 
