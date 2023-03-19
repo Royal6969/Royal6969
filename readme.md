@@ -68,13 +68,13 @@ const sergio = {
 
 </br>
 
-## <img src="./img/trophie.gif" width="40" /> **GitHub Trophies**
+## <img src="./img/trophie.gif" width="45" /> **GitHub Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=royal6969&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 
-## <img src="./img/folder.gif" width="35" /> **Highlight Projects**
+## <img src="./img/folder.gif" width="40" /> **Highlight Projects**
 
 <a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=eFoodDelivery-Website&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
@@ -103,7 +103,7 @@ const sergio = {
 
 <br/>
 
-## **I'm an early** <img src="./img/bird.gif" width="50" />
+## **I'm an early** <img src="./img/bird.gif" width="55" />
 
 ```text
 🌞 Morning          452 commits         ██████████░░░░░░░░░░░░░░░   39.48 % 
