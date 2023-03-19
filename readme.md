@@ -22,21 +22,21 @@
 
 ## <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" width="20" /> **My GitHub Data**  
  > 
-> 🤝 Open to hire
+> 🙋🏻‍♂️ Open to hire
  > 
-> 📢 25 Public repositories
+> 📢 45 Public repositories
  > 
-> 🔒 4 Private repositories
+> 🔒 3 Private repositories
+ >
+> 👥 2 Organization
  > 
 > 📚 6 Notes and courses
  > 
-> 📦 349.04 Mb GitHub's Storage
- >
 > 🏆 9 Contributions
  >
 > 🎓 3 higher grades
  >
-> 💼 5 previous work experiences 
+> 💼 4 previous work experiences 
 
 ## <img src="./img/box.gif" width="30" /> **A little more about me...**  
 
