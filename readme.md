@@ -16,9 +16,9 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/USUARIO?label=Follow)](https://twitter.com/intent/follow?screen_name=USUARIO) -->
 [![Linkedin: sergiodc](https://img.shields.io/badge/-sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiodc/)](https://www.linkedin.com/in/sergiodc/)
-![GitHub followers](https://img.shields.io/github/followers/royal6969?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sergio-portfolio.web.app/)](https://sergio-portfolio.web.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=royal6969.royal6969)
+![GitHub followers](https://img.shields.io/github/followers/royal6969?label=Follow&style=social)
 
 ## <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" width="25" /> **My GitHub Data**  
  > 
