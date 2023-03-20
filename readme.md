@@ -79,17 +79,17 @@ const sergio = {
 
 ## <img src="./img/folder.gif" width="40" /> **Highlight Projects**
 
-<a href="https://github.com/Royal6969/AlumnosPortatiles-LoginRegisterRoles" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=AlumnosPortatiles-LoginRegisterRoles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
-<a href="https://github.com/Royal6969/AlumnosPortatiles-WebAnnotationConfig" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=AlumnosPortatiles-WebAnnotationConfig&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
 <a href="https://github.com/Royal6969/eFoodDelivery-Website" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=eFoodDelivery-Website&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 <a href="https://github.com/Royal6969/eFoodDelivery-API" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=eFoodDelivery-API&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+<a href="https://github.com/Royal6969/AlumnosPortatiles-LoginRegisterRoles" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=AlumnosPortatiles-LoginRegisterRoles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+<a href="https://github.com/Royal6969/AlumnosPortatiles-WebAnnotationConfig" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=AlumnosPortatiles-WebAnnotationConfig&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 <a href="https://github.com/Royal6969/CSPharma-v4.3" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=CSPharma-v4.3&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
