@@ -79,7 +79,13 @@ const sergio = {
 
 ## <img src="./img/folder.gif" width="40" /> **Highlight Projects**
 
-<a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
+<a href="https://github.com/Royal6969/AlumnosPortatiles-WebAnnotationConfig" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=AlumnosPortatiles-WebAnnotationConfig&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+<a href="https://github.com/Royal6969/CSPharma-v4.3" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=CSPharma-v4.3&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+<a href="https://github.com/Royal6969/eFoodDelivery-Website" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=eFoodDelivery-Website&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 <a href="https://github.com/Royal6969/pizza-delivery-app" target="_blank">
@@ -88,19 +94,19 @@ const sergio = {
 <a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=Biblioteca_v2-Angular_School_Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
-<a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
+<a href="https://github.com/Royal6969/React_Responsive_Portfolio_Website" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=React_Responsive_Portfolio_Website&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
-<a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
+<a href="https://github.com/Royal6969/Ejercicios_Programacion_Csharp_1_DAW" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=Ejercicios_Programacion_Csharp_1_DAW&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
-<a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
+<a href="https://github.com/Royal6969/Ejercicios_Programacion_Java_1_DAM" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=Ejercicios_Programacion_Java_1_DAM&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
-<a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
+<a href="https://github.com/Royal6969/Ejercicios_Base_de_Datos_SQL_ORACLE_1_DAM" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=Ejercicios_Base_de_Datos_SQL_ORACLE_1_DAM&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
-<a href="https://github.com/Royal6969/Biblioteca_v2-Angular_School_Project" target="_blank">
+<a href="https://github.com/Royal6969/amazona-app" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royal6969&repo=amazona-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
