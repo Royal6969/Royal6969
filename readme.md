@@ -28,11 +28,11 @@
  > 
 > 📢 46 Public repositories
  > 
-> 🔒 3 Private repositories
+> 🔒 2 Private repositories
  >
-> 👥 2 Organization
+> 👥 1 Organization
  > 
-> 📚 6 Notes and courses
+> 📚 7 Notes and courses
  > 
 > 🏆 9 Contributions
  >
