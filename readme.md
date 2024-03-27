@@ -1,7 +1,8 @@
 <h1>
     <img src="https://images.squarespace-cdn.com/content/v1/584ac727c534a52d610a4a4a/1633709369722-QXXEQYJ8OYVZKN7FVR4A/EYES.gif?format=2500w" width="50" />
-    <b>Hi, I'm Sergio,<br>a frontend developer in Angular and React</b>
+    <b>Hi, I'm Sergio</b>
     <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50" />
+    <b>a frontend developer in Angular and React</b>
 </h1>
 
 <img align='right' src="./img/coding.gif" width="500">
